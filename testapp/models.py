@@ -2,7 +2,6 @@
 
 from django.db import models
 from django.core.exceptions import ValidationError
-from testapp.descriptors import StringValidator, AgeValidator
 
 
 class Employee(models.Model):
