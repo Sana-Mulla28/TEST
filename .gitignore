@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Django
+*.log
+*.pot
+*.pyc
+db.sqlite3
+media/
+staticfiles/
+
+# Environments
+.env
+venv/
+ENV/
+*.env
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# Migrations (optional, but usually kept)
+#*/migrations/
+#*/migrations/*.py
+
+# OS files
+.DS_Store
+Thumbs.db
